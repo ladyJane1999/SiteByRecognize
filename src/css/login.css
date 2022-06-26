@@ -1,0 +1,25 @@
+.Login {
+  position: relative;
+  min-height: 100%;
+    max-width: 60%;
+    margin-top:100px;
+    font-size:16px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color: #33708c
+}
+.h5{
+    min-height: 100%;
+    color: #33708c
+}
+
+.Login-inputs {
+    margin-top:10px;
+}
+
+#foral{
+	font-size:16px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+.hes{
+	font-size:25px;
+}

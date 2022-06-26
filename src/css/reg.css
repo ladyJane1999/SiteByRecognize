@@ -1,0 +1,23 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body{
+	margin-bottom:80px;
+}
+
+
+body > .container {
+  padding: 15px 15px 50px;
+  margin-bottom:90px;
+  margin-top: 100px;
+}
+
+#foral{
+	font-size:16px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+.hes{
+	font-size:25px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
