@@ -1,0 +1,31 @@
+
+
+.navbar-custom {
+	background-color: #33638c;
+}
+
+/* меняем цвет и размер лого */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgb(255,255,255);
+    font-size:38px;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/* меняем цвет и размер ссылок */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.7);
+    font-size:26px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/* меняем цвет и размер ссылок при наведении */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.navbar-custom .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger5.svg?color=f3e5f5');
+}
